@@ -1,0 +1,15 @@
+.home {
+    padding: 30px 0px;
+
+    & > h1 {
+        display: grid;
+        place-items: center;
+        font-size: 100px;
+    }
+
+    .listBlock {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

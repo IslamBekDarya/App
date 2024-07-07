@@ -1,0 +1,9 @@
+@import "./reset";
+
+$font-Noto-Sans: "Noto Sans", sans-serif;
+
+body {
+  font-family: $font-Noto-Sans;
+  background-color: rgb(15, 7, 124);
+  color: #fff;
+}
